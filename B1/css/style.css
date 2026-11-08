@@ -31,6 +31,10 @@ body {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-NK7foD_8FCfKePJgrgv26YJj6JDduS89csf00_UMw&s=10);
     background-size: cover;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column  ;
 }
 
 
